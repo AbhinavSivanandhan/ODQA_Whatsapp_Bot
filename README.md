@@ -1,0 +1,2 @@
+# ODQA_Whatsapp_Bot
+WhatsApp Bot For Open Domain Question Answering. Since, WhatsApp regularly updates the div names of its whatsapp web version and takes other precautions to avoid bots, this script works only if the user updates to current div names and can only work for a limited time until WhatsApp inevitably changes the name of the web elements. Still, using this bot is pretty fun so I've added it here
